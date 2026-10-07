@@ -1,0 +1,11 @@
+{
+  "name": "efl-carbon-intelligence",
+  "version": "2.0.0",
+  "description": "EFL Carbon Emission Management Platform — group ESG & emissions data management prototype (synthetic data)",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -l 5500"
+  },
+  "keywords": ["esg","ghg","iso-14083","glec","scope-3","emissions","heatmap"],
+  "license": "UNLICENSED"
+}
